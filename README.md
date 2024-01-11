@@ -9,7 +9,6 @@
 
 ## 連結
 - EMOMO 購物網：https://emomo.studio-alvitr.com/
-- Github：https://github.com/shaneliu-zf/EMOMO
 
 ## 安裝步驟
 1. 連接資料庫
